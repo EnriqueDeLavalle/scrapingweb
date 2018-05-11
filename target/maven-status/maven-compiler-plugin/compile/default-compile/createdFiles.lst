@@ -1,0 +1,7 @@
+com\belatrix\scrapingWeb\view\ScrapingJFileChooser.class
+com\belatrix\scrapingWeb\executor\AppExecutor$1.class
+com\belatrix\scrapingWeb\Dispatcher$1.class
+com\belatrix\scrapingWeb\executor\AppExecutor.class
+com\belatrix\scrapingWeb\Dispatcher.class
+com\belatrix\scrapingWeb\DAO\PageDAO.class
+com\belatrix\scrapingWeb\model\Page.class
